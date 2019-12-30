@@ -1,2 +1,2 @@
-# genv
-switch gradle version tools
+# Simple Gradle version management:genv
+
